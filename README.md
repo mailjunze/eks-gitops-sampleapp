@@ -1,1 +1,1 @@
-# eks-gitops-sampleapp
+# eks-gitops-example
